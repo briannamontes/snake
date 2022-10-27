@@ -15,6 +15,7 @@ const BACK_COLOR: Color = [0.5, 0.5, 0.5, 1.0];
 
 
 
+//main function for board
 fn main() {
     let (width, height) = (30, 30);
 

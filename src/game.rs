@@ -13,6 +13,7 @@ const GAMEOVER_COLOR: Color = [0.90, 0.00, 0.00, 0.5];
 const MOVING_PERIOD: f64 = 0.1;
 const RESTART_TIME: f64 = 1.0;
 
+//function for the snake
 pub struct Game {
     snake: Snake,
 
